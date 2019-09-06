@@ -7,5 +7,7 @@ App({
   onShow(options) {
     // 从后台被 scheme 重新打开
     // options.query == {number:1}
+    //测试github
+    //实在太困了。。。睡觉
   },
 });
