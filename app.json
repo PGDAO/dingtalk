@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "公司新闻",
+    "titleBarColor":"#3296FA"
+  }
+}

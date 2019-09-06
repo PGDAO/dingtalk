@@ -1,0 +1,36 @@
+<view class="container">
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" circular="{{circular}}">
+    <block>
+      <swiper-item>
+        <view>
+          <image src="../images/1.jpg" mode="scaleToFill" class="logo"/>
+        </view>
+      </swiper-item>
+      <swiper-item>
+        <view>
+          <image src="../images/2.jpg" mode="scaleToFill" class="logo"/>
+        </view>
+      </swiper-item>
+      <swiper-item>
+        <view>
+          <image src="../images/3.jpg" mode="scaleToFill" class="logo"/>
+        </view>
+      </swiper-item>
+    </block>
+  </swiper>
+  <text class="title">南通中支：真诚服务客户、坚守职业道德...</text>
+  <view class="articlelist">
+    <image class="acticle-img" src="../images/1.jpg"/>
+    <text class="article-text">8月27日，海安淘宝卖家网上刊登了一份表扬信，信中对南通中支理赔部人伤岗顾嘉优质、规范、真诚的服务精神表示衷心感谢和高度赞扬。2019年5月12日18时31分，被保...</text>
+  </view>
+  <text class="title">南通中支：真诚服务客户、坚守职业道德</text>
+  <view class="articlelist">
+    <image class="acticle-img" src="../images/2.jpg"/>
+    <text class="article-text">8月27日，海安淘宝卖家网上刊登了一份表扬信，信中对南通中支理赔部人伤岗顾嘉优质、规范、真诚的服务精神表示衷心感谢和高度赞扬。2019年5月12日18时31分，被保...</text>
+  </view>
+  <text class="title">南通中支：真诚服务客户、坚守职业道德</text>
+  <view class="articlelist">
+    <image class="acticle-img" src="../images/3.jpg"/>
+    <text class="article-text">8月27日，海安淘宝卖家网上刊登了一份表扬信，信中对南通中支理赔部人伤岗顾嘉优质、规范、真诚的服务精神表示衷心感谢和高度赞扬。2019年5月12日18时31分，被保...</text>
+  </view>
+</view>
